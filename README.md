@@ -27,6 +27,7 @@ Get the latest version of the CCG here:
 
 [Download CCG v2](https://cdn.discordapp.com/attachments/1360757090624344276/1360757222023495790/CCG_v2.exe?ex=67fc476b&is=67faf5eb&hm=3e829a566910672f7f199cb2cc9a291cb1248b8338898315b9f7503008727980&)
 
+---
 
 ## 🤝 Contribute & Community
 
