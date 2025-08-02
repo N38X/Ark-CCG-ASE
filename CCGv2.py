@@ -16,7 +16,7 @@ window.resizable(False, False)
 
 if getattr(sys, 'frozen', False): 
     icon_path = os.path.join(sys._MEIPASS, "NX.ico")
-else:  # Falls als .py
+else: 
     icon_path = os.path.join(os.getcwd(), "NX.ico")
 
 
@@ -248,3 +248,4 @@ btn_Github.place(x=460, y=40)
 
 # Start
 window.mainloop()
+
