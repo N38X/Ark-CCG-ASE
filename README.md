@@ -30,7 +30,7 @@ Works with SPI positions, AOE kills, chunked copy buttons, and export support.
 
 Get the latest version of the CCG here:
 
-[Download CCG v3](https://cdn.discordapp.com/attachments/1341042477997625414/1401184653087608913/CCG_v3.exe?ex=68934ee6&is=6891fd66&hm=07de1cf8852de0d9768118957163eaa6e3da63e491fe0dde7fb786460488ba7a&)
+[Download CCG v3](https://cdn.discordapp.com/attachments/1341042477997625414/1402337607001575657/CCG_v3.exe?ex=68938c2b&is=68923aab&hm=c95f38e981cb3bfdf1ebcddedab742f3e284e894b5c655557bb5dd54fefa00cd&)
 
 ---
 
