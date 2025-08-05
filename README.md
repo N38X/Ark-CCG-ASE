@@ -7,17 +7,22 @@ Works with SPI positions, AOE kills, chunked copy buttons, and export support.
 ## ✨ Features
 
 - 🧮 Set width / height / length for spawn grid  
+- 📐 **Shape generator** for custom layouts (e.g. Pyramid, Sphere)  
+- ⚙️ **Configurable spacing** between structures  
+- 🧬 **Custom blueprint paths** for full control over spawned objects  
 - 📌 SPI command support with coordinates & yaw  
 - 💥 `KillAOE` command generator with dropdown  
 - ✂️ Copy full or in 1/3 chunks (great for long commands)  
 - 💾 Save commands as `.txt`  
-- 📋 One-click copy to clipboard
+- 📋 One-click copy to clipboard 
+- 
 
 ---
 
 ## 📸 Preview
 
-![CustomCavesGenerator Screenshot](https://cdn.discordapp.com/attachments/1341043146569814101/1360759691445141594/image.png?ex=67fc49b8&is=67faf838&hm=ccf7e8ae74adce42db93dcdc3eb4616a2e5d8f1f9079b199e38677148a58bed0&)
+![CustomCavesGenerator Screenshot](https://github.com/N38X/Ark-CCG-ASE/blob/main/images/CCG-Preview.png)
+![CustomCavesGenerator Screenshot](https://github.com/N38X/Ark-CCG-ASE/blob/main/images/CCG-Settings.png)
 
 ---
 
@@ -25,7 +30,7 @@ Works with SPI positions, AOE kills, chunked copy buttons, and export support.
 
 Get the latest version of the CCG here:
 
-[Download CCG v2](https://cdn.discordapp.com/attachments/1360757090624344276/1360757222023495790/CCG_v2.exe?ex=67fc476b&is=67faf5eb&hm=3e829a566910672f7f199cb2cc9a291cb1248b8338898315b9f7503008727980&)
+[Download CCG v2](https://cdn.discordapp.com/attachments/1341042477997625414/1401184653087608913/CCG_v3.exe?ex=68934ee6&is=6891fd66&hm=07de1cf8852de0d9768118957163eaa6e3da63e491fe0dde7fb786460488ba7a&)
 
 ---
 
