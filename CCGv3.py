@@ -245,7 +245,7 @@ def browse_path():
 def save_output():
     path = settings_data.get("save_path", "")
     if not path:
-        print("Kein Save Path festgelegt.")
+        print("missing Save Path")
         return
 
     try:
@@ -253,7 +253,7 @@ def save_output():
         height = int(entry_height.get())
         length = int(entry_length.get())
     except ValueError:
-        print("Ungültige Werte für Width, Height oder Length.")
+        print("no valid number for Width, Height or Length.")
         return
 
     
@@ -275,9 +275,9 @@ def save_output():
     try:
         with open(full_path, "w") as f:
             f.write(output_text.get("1.0", "end").strip())
-        print(f"Datei gespeichert unter: {full_path}")
+        print(f"File Saved {full_path}")
     except Exception as e:
-        print(f"Fehler beim Speichern: {e}")
+        print(f"Error while saving {e}")
 
 entry_path_var = tk.StringVar()
 entry_path_var.set(settings_data.get("save_path", ""))
@@ -501,3 +501,4 @@ def open_settings():
     error_label.place(x=350, y=200)
 
 window.mainloop()
+
